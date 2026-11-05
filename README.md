@@ -18,9 +18,10 @@ Grade: B
 
 ## Author
 Darren Manolack 
-class UberRide {
+
 ## Starter Code
 ~~~java
+class UberRide {
 // ===== Part A: Class Definition =====
 // TODO A: Create two properties:
 // - riderName (String)
