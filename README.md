@@ -2,8 +2,9 @@
 Project 
 # Lab: Student Grade Calculator
 
-This program reads student names and scores, calculates their average, 
-and displays the letter grade.
+This program reads student names and scores\ 
+Calculates their average\ 
+Displays the letter grade.
 
 ## How to Run
 1. Open the program in your IDE.
@@ -17,3 +18,5 @@ Grade: B
 
 ## Author
 Darren Manolack 
+
+"Edit added by Alex Lam"
